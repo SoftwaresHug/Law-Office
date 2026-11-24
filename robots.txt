@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://SoftwaresHug.github.io/Law-Office/sitemap.xml
